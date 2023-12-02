@@ -1,0 +1,321 @@
+﻿Tm,Division,W,L,T,W-L%,Pts,PtsO,PtDif,Year
+Miami Dolphins,AFC East,6,2,0,0.75,271,204,67,2023
+Buffalo Bills,AFC East,5,3,0,0.625,222,136,86,2023
+New York Jets,AFC East,4,3,0,0.571,126,129,-3,2023
+New England Patriots,AFC East,2,6,0,0.25,118,208,-90,2023
+Baltimore Ravens,AFC North,6,2,0,0.75,202,121,81,2023
+Cincinnati Bengals,AFC North,4,3,0,0.571,131,144,-13,2023
+Cleveland Browns,AFC North,4,3,0,0.571,154,139,15,2023
+Pittsburgh Steelers,AFC North,4,3,0,0.571,113,147,-34,2023
+Jacksonville Jaguars,AFC South,6,2,0,0.75,193,156,37,2023
+Houston Texans,AFC South,3,4,0,0.429,148,128,20,2023
+Tennessee Titans,AFC South,3,4,0,0.429,132,140,-8,2023
+Indianapolis Colts,AFC South,3,5,0,0.375,205,229,-24,2023
+Kansas City Chiefs,AFC West,6,2,0,0.75,187,129,58,2023
+Los Angeles Chargers,AFC West,3,4,0,0.429,174,168,6,2023
+Las Vegas Raiders,AFC West,3,5,0,0.375,126,187,-61,2023
+Denver Broncos,AFC West,3,5,0,0.375,172,226,-54,2023
+Philadelphia Eagles,NFC East,7,1,0,0.875,224,172,52,2023
+Dallas Cowboys,NFC East,5,2,0,0.714,197,120,77,2023
+Washington Commanders,NFC East,3,5,0,0.375,171,228,-57,2023
+New York Giants,NFC East,2,6,0,0.25,95,187,-92,2023
+Detroit Lions,NFC North,6,2,0,0.75,200,165,35,2023
+Minnesota Vikings,NFC North,4,4,0,0.5,175,162,13,2023
+Green Bay Packers,NFC North,2,5,0,0.286,140,156,-16,2023
+Chicago Bears,NFC North,2,6,0,0.25,171,218,-47,2023
+New Orleans Saints,NFC South,4,4,0,0.5,171,154,17,2023
+Atlanta Falcons,NFC South,4,4,0,0.5,138,161,-23,2023
+Tampa Bay Buccaneers,NFC South,3,4,0,0.429,121,128,-7,2023
+Carolina Panthers,NFC South,1,6,0,0.143,127,199,-72,2023
+Seattle Seahawks,NFC West,5,2,0,0.714,168,138,30,2023
+San Francisco 49ers,NFC West,5,3,0,0.625,218,140,78,2023
+Los Angeles Rams,NFC West,3,5,0,0.375,175,184,-9,2023
+Arizona Cardinals,NFC West,1,7,0,0.125,151,213,-62,2023
+Buffalo Bills,AFC East,13,3,0,0.813,455,286,169,2022
+Miami Dolphins,AFC East,9,8,0,0.529,397,399,-2,2022
+New England Patriots,AFC East,8,9,0,0.471,364,347,17,2022
+New York Jets,AFC East,7,10,0,0.412,296,316,-20,2022
+Cincinnati Bengals,AFC North,12,4,0,0.75,418,322,96,2022
+Baltimore Ravens,AFC North,10,7,0,0.588,350,315,35,2022
+Pittsburgh Steelers,AFC North,9,8,0,0.529,308,346,-38,2022
+Cleveland Browns,AFC North,7,10,0,0.412,361,381,-20,2022
+Jacksonville Jaguars,AFC South,9,8,0,0.529,404,350,54,2022
+Tennessee Titans,AFC South,7,10,0,0.412,298,359,-61,2022
+Indianapolis Colts,AFC South,4,12,1,0.265,289,427,-138,2022
+Houston Texans,AFC South,3,13,1,0.206,289,420,-131,2022
+Kansas City Chiefs,AFC West,14,3,0,0.824,496,369,127,2022
+Los Angeles Chargers,AFC West,10,7,0,0.588,391,384,7,2022
+Las Vegas Raiders,AFC West,6,11,0,0.353,395,418,-23,2022
+Denver Broncos,AFC West,5,12,0,0.294,287,359,-72,2022
+Philadelphia Eagles,NFC East,14,3,0,0.824,477,344,133,2022
+Dallas Cowboys,NFC East,12,5,0,0.706,467,342,125,2022
+New York Giants,NFC East,9,7,1,0.559,365,371,-6,2022
+Washington Commanders,NFC East,8,8,1,0.5,321,343,-22,2022
+Minnesota Vikings,NFC North,13,4,0,0.765,424,427,-3,2022
+Detroit Lions,NFC North,9,8,0,0.529,453,427,26,2022
+Green Bay Packers,NFC North,8,9,0,0.471,370,371,-1,2022
+Chicago Bears,NFC North,3,14,0,0.176,326,463,-137,2022
+Tampa Bay Buccaneers,NFC South,8,9,0,0.471,313,358,-45,2022
+Carolina Panthers,NFC South,7,10,0,0.412,347,374,-27,2022
+New Orleans Saints,NFC South,7,10,0,0.412,330,345,-15,2022
+Atlanta Falcons,NFC South,7,10,0,0.412,365,386,-21,2022
+San Francisco 49ers,NFC West,13,4,0,0.765,450,277,173,2022
+Seattle Seahawks,NFC West,9,8,0,0.529,407,401,6,2022
+Los Angeles Rams,NFC West,5,12,0,0.294,307,384,-77,2022
+Arizona Cardinals,NFC West,4,13,0,0.235,340,449,-109,2022
+Buffalo Bills,AFC East,11,6,0,0.647,483,289,194,2021
+New England Patriots,AFC East,10,7,0,0.588,462,303,159,2021
+Miami Dolphins,AFC East,9,8,0,0.529,341,373,-32,2021
+New York Jets,AFC East,4,13,0,0.235,310,504,-194,2021
+Cincinnati Bengals,AFC North,10,7,0,0.588,460,376,84,2021
+Pittsburgh Steelers,AFC North,9,7,1,0.559,343,398,-55,2021
+Cleveland Browns,AFC North,8,9,0,0.471,349,371,-22,2021
+Baltimore Ravens,AFC North,8,9,0,0.471,387,392,-5,2021
+Tennessee Titans,AFC South,12,5,0,0.706,419,354,65,2021
+Indianapolis Colts,AFC South,9,8,0,0.529,451,365,86,2021
+Houston Texans,AFC South,4,13,0,0.235,280,452,-172,2021
+Jacksonville Jaguars,AFC South,3,14,0,0.176,253,457,-204,2021
+Kansas City Chiefs,AFC West,12,5,0,0.706,480,364,116,2021
+Las Vegas Raiders,AFC West,10,7,0,0.588,374,439,-65,2021
+Los Angeles Chargers,AFC West,9,8,0,0.529,474,459,15,2021
+Denver Broncos,AFC West,7,10,0,0.412,335,322,13,2021
+Dallas Cowboys,NFC East,12,5,0,0.706,530,358,172,2021
+Philadelphia Eagles,NFC East,9,8,0,0.529,444,385,59,2021
+Washington Football Team,NFC East,7,10,0,0.412,335,434,-99,2021
+New York Giants,NFC East,4,13,0,0.235,258,416,-158,2021
+Green Bay Packers,NFC North,13,4,0,0.765,450,371,79,2021
+Minnesota Vikings,NFC North,8,9,0,0.471,425,426,-1,2021
+Chicago Bears,NFC North,6,11,0,0.353,311,407,-96,2021
+Detroit Lions,NFC North,3,13,1,0.206,325,467,-142,2021
+Tampa Bay Buccaneers,NFC South,13,4,0,0.765,511,353,158,2021
+New Orleans Saints,NFC South,9,8,0,0.529,364,335,29,2021
+Atlanta Falcons,NFC South,7,10,0,0.412,313,459,-146,2021
+Carolina Panthers,NFC South,5,12,0,0.294,304,404,-100,2021
+Los Angeles Rams,NFC West,12,5,0,0.706,460,372,88,2021
+Arizona Cardinals,NFC West,11,6,0,0.647,449,366,83,2021
+San Francisco 49ers,NFC West,10,7,0,0.588,427,365,62,2021
+Seattle Seahawks,NFC West,7,10,0,0.412,395,366,29,2021
+Buffalo Bills,AFC East,13,3,0,0.813,501,375,126,2020
+Miami Dolphins,AFC East,10,6,0,0.625,404,338,66,2020
+New England Patriots,AFC East,7,9,0,0.438,326,353,-27,2020
+New York Jets,AFC East,2,14,0,0.125,243,457,-214,2020
+Pittsburgh Steelers,AFC North,12,4,0,0.75,416,312,104,2020
+Baltimore Ravens,AFC North,11,5,0,0.688,468,303,165,2020
+Cleveland Browns,AFC North,11,5,0,0.688,408,419,-11,2020
+Cincinnati Bengals,AFC North,4,11,1,0.281,311,424,-113,2020
+Tennessee Titans,AFC South,11,5,0,0.688,491,439,52,2020
+Indianapolis Colts,AFC South,11,5,0,0.688,451,362,89,2020
+Houston Texans,AFC South,4,12,0,0.25,384,464,-80,2020
+Jacksonville Jaguars,AFC South,1,15,0,0.063,306,492,-186,2020
+Kansas City Chiefs,AFC West,14,2,0,0.875,473,362,111,2020
+Las Vegas Raiders,AFC West,8,8,0,0.5,434,478,-44,2020
+Los Angeles Chargers,AFC West,7,9,0,0.438,384,426,-42,2020
+Denver Broncos,AFC West,5,11,0,0.313,323,446,-123,2020
+Washington Football Team,NFC East,7,9,0,0.438,335,329,6,2020
+New York Giants,NFC East,6,10,0,0.375,280,357,-77,2020
+Dallas Cowboys,NFC East,6,10,0,0.375,395,473,-78,2020
+Philadelphia Eagles,NFC East,4,11,1,0.281,334,418,-84,2020
+Green Bay Packers,NFC North,13,3,0,0.813,509,369,140,2020
+Chicago Bears,NFC North,8,8,0,0.5,372,370,2,2020
+Minnesota Vikings,NFC North,7,9,0,0.438,430,475,-45,2020
+Detroit Lions,NFC North,5,11,0,0.313,377,519,-142,2020
+New Orleans Saints,NFC South,12,4,0,0.75,482,337,145,2020
+Tampa Bay Buccaneers,NFC South,11,5,0,0.688,492,355,137,2020
+Carolina Panthers,NFC South,5,11,0,0.313,350,402,-52,2020
+Atlanta Falcons,NFC South,4,12,0,0.25,396,414,-18,2020
+Seattle Seahawks,NFC West,12,4,0,0.75,459,371,88,2020
+Los Angeles Rams,NFC West,10,6,0,0.625,372,296,76,2020
+Arizona Cardinals,NFC West,8,8,0,0.5,410,367,43,2020
+San Francisco 49ers,NFC West,6,10,0,0.375,376,390,-14,2020
+New England Patriots,AFC East,12,4,0,0.75,420,225,195,2019
+Buffalo Bills,AFC East,10,6,0,0.625,314,259,55,2019
+New York Jets,AFC East,7,9,0,0.438,276,359,-83,2019
+Miami Dolphins,AFC East,5,11,0,0.313,306,494,-188,2019
+Baltimore Ravens,AFC North,14,2,0,0.875,531,282,249,2019
+Pittsburgh Steelers,AFC North,8,8,0,0.5,289,303,-14,2019
+Cleveland Browns,AFC North,6,10,0,0.375,335,393,-58,2019
+Cincinnati Bengals,AFC North,2,14,0,0.125,279,420,-141,2019
+Houston Texans,AFC South,10,6,0,0.625,378,385,-7,2019
+Tennessee Titans,AFC South,9,7,0,0.563,402,331,71,2019
+Indianapolis Colts,AFC South,7,9,0,0.438,361,373,-12,2019
+Jacksonville Jaguars,AFC South,6,10,0,0.375,300,397,-97,2019
+Kansas City Chiefs,AFC West,12,4,0,0.75,451,308,143,2019
+Denver Broncos,AFC West,7,9,0,0.438,282,316,-34,2019
+Oakland Raiders,AFC West,7,9,0,0.438,313,419,-106,2019
+Los Angeles Chargers,AFC West,5,11,0,0.313,337,345,-8,2019
+Philadelphia Eagles,NFC East,9,7,0,0.563,385,354,31,2019
+Dallas Cowboys,NFC East,8,8,0,0.5,434,321,113,2019
+New York Giants,NFC East,4,12,0,0.25,341,451,-110,2019
+Washington Redskins,NFC East,3,13,0,0.188,266,435,-169,2019
+Green Bay Packers,NFC North,13,3,0,0.813,376,313,63,2019
+Minnesota Vikings,NFC North,10,6,0,0.625,407,303,104,2019
+Chicago Bears,NFC North,8,8,0,0.5,280,298,-18,2019
+Detroit Lions,NFC North,3,12,1,0.219,341,423,-82,2019
+New Orleans Saints,NFC South,13,3,0,0.813,458,341,117,2019
+Atlanta Falcons,NFC South,7,9,0,0.438,381,399,-18,2019
+Tampa Bay Buccaneers,NFC South,7,9,0,0.438,458,449,9,2019
+Carolina Panthers,NFC South,5,11,0,0.313,340,470,-130,2019
+San Francisco 49ers,NFC West,13,3,0,0.813,479,310,169,2019
+Seattle Seahawks,NFC West,11,5,0,0.688,405,398,7,2019
+Los Angeles Rams,NFC West,9,7,0,0.563,394,364,30,2019
+Arizona Cardinals,NFC West,5,10,1,0.344,361,442,-81,2019
+New England Patriots,AFC East,11,5,0,0.688,436,325,111,2018
+Miami Dolphins,AFC East,7,9,0,0.438,319,433,-114,2018
+Buffalo Bills,AFC East,6,10,0,0.375,269,374,-105,2018
+New York Jets,AFC East,4,12,0,0.25,333,441,-108,2018
+Baltimore Ravens,AFC North,10,6,0,0.625,389,287,102,2018
+Pittsburgh Steelers,AFC North,9,6,1,0.594,428,360,68,2018
+Cleveland Browns,AFC North,7,8,1,0.469,359,392,-33,2018
+Cincinnati Bengals,AFC North,6,10,0,0.375,368,455,-87,2018
+Houston Texans,AFC South,11,5,0,0.688,402,316,86,2018
+Indianapolis Colts,AFC South,10,6,0,0.625,433,344,89,2018
+Tennessee Titans,AFC South,9,7,0,0.563,310,303,7,2018
+Jacksonville Jaguars,AFC South,5,11,0,0.313,245,316,-71,2018
+Kansas City Chiefs,AFC West,12,4,0,0.75,565,421,144,2018
+Los Angeles Chargers,AFC West,12,4,0,0.75,428,329,99,2018
+Denver Broncos,AFC West,6,10,0,0.375,329,349,-20,2018
+Oakland Raiders,AFC West,4,12,0,0.25,290,467,-177,2018
+Dallas Cowboys,NFC East,10,6,0,0.625,339,324,15,2018
+Philadelphia Eagles,NFC East,9,7,0,0.563,367,348,19,2018
+Washington Redskins,NFC East,7,9,0,0.438,281,359,-78,2018
+New York Giants,NFC East,5,11,0,0.313,369,412,-43,2018
+Chicago Bears,NFC North,12,4,0,0.75,421,283,138,2018
+Minnesota Vikings,NFC North,8,7,1,0.531,360,341,19,2018
+Green Bay Packers,NFC North,6,9,1,0.406,376,400,-24,2018
+Detroit Lions,NFC North,6,10,0,0.375,324,360,-36,2018
+New Orleans Saints,NFC South,13,3,0,0.813,504,353,151,2018
+Atlanta Falcons,NFC South,7,9,0,0.438,414,423,-9,2018
+Carolina Panthers,NFC South,7,9,0,0.438,376,382,-6,2018
+Tampa Bay Buccaneers,NFC South,5,11,0,0.313,396,464,-68,2018
+Los Angeles Rams,NFC West,13,3,0,0.813,527,384,143,2018
+Seattle Seahawks,NFC West,10,6,0,0.625,428,347,81,2018
+San Francisco 49ers,NFC West,4,12,0,0.25,342,435,-93,2018
+Arizona Cardinals,NFC West,3,13,0,0.188,225,425,-200,2018
+New England Patriots,AFC East,13,3,0,0.813,458,296,162,2017
+Buffalo Bills,AFC East,9,7,0,0.563,302,359,-57,2017
+Miami Dolphins,AFC East,6,10,0,0.375,281,393,-112,2017
+New York Jets,AFC East,5,11,0,0.313,298,382,-84,2017
+Pittsburgh Steelers,AFC North,13,3,0,0.813,406,308,98,2017
+Baltimore Ravens,AFC North,9,7,0,0.563,395,303,92,2017
+Cincinnati Bengals,AFC North,7,9,0,0.438,290,349,-59,2017
+Cleveland Browns,AFC North,0,16,0,0,234,410,-176,2017
+Jacksonville Jaguars,AFC South,10,6,0,0.625,417,268,149,2017
+Tennessee Titans,AFC South,9,7,0,0.563,334,356,-22,2017
+Indianapolis Colts,AFC South,4,12,0,0.25,263,404,-141,2017
+Houston Texans,AFC South,4,12,0,0.25,338,436,-98,2017
+Kansas City Chiefs,AFC West,10,6,0,0.625,415,339,76,2017
+Los Angeles Chargers,AFC West,9,7,0,0.563,355,272,83,2017
+Oakland Raiders,AFC West,6,10,0,0.375,301,373,-72,2017
+Denver Broncos,AFC West,5,11,0,0.313,289,382,-93,2017
+Philadelphia Eagles,NFC East,13,3,0,0.813,457,295,162,2017
+Dallas Cowboys,NFC East,9,7,0,0.563,354,332,22,2017
+Washington Redskins,NFC East,7,9,0,0.438,342,388,-46,2017
+New York Giants,NFC East,3,13,0,0.188,246,388,-142,2017
+Minnesota Vikings,NFC North,13,3,0,0.813,382,252,130,2017
+Detroit Lions,NFC North,9,7,0,0.563,410,376,34,2017
+Green Bay Packers,NFC North,7,9,0,0.438,320,384,-64,2017
+Chicago Bears,NFC North,5,11,0,0.313,264,320,-56,2017
+New Orleans Saints,NFC South,11,5,0,0.688,448,326,122,2017
+Carolina Panthers,NFC South,11,5,0,0.688,363,327,36,2017
+Atlanta Falcons,NFC South,10,6,0,0.625,353,315,38,2017
+Tampa Bay Buccaneers,NFC South,5,11,0,0.313,335,382,-47,2017
+Los Angeles Rams,NFC West,11,5,0,0.688,478,329,149,2017
+Seattle Seahawks,NFC West,9,7,0,0.563,366,332,34,2017
+Arizona Cardinals,NFC West,8,8,0,0.5,295,361,-66,2017
+San Francisco 49ers,NFC West,6,10,0,0.375,331,383,-52,2017
+New England Patriots,AFC East,14,2,0,0.875,441,250,191,2016
+Miami Dolphins,AFC East,10,6,0,0.625,363,380,-17,2016
+Buffalo Bills,AFC East,7,9,0,0.438,399,378,21,2016
+New York Jets,AFC East,5,11,0,0.313,275,409,-134,2016
+Pittsburgh Steelers,AFC North,11,5,0,0.688,399,327,72,2016
+Baltimore Ravens,AFC North,8,8,0,0.5,343,321,22,2016
+Cincinnati Bengals,AFC North,6,9,1,0.406,325,315,10,2016
+Cleveland Browns,AFC North,1,15,0,0.063,264,452,-188,2016
+Houston Texans,AFC South,9,7,0,0.563,279,328,-49,2016
+Tennessee Titans,AFC South,9,7,0,0.563,381,378,3,2016
+Indianapolis Colts,AFC South,8,8,0,0.5,411,392,19,2016
+Jacksonville Jaguars,AFC South,3,13,0,0.188,318,400,-82,2016
+Kansas City Chiefs,AFC West,12,4,0,0.75,389,311,78,2016
+Oakland Raiders,AFC West,12,4,0,0.75,416,385,31,2016
+Denver Broncos,AFC West,9,7,0,0.563,333,297,36,2016
+San Diego Chargers,AFC West,5,11,0,0.313,410,423,-13,2016
+Dallas Cowboys,NFC East,13,3,0,0.813,421,306,115,2016
+New York Giants,NFC East,11,5,0,0.688,310,284,26,2016
+Washington Redskins,NFC East,8,7,1,0.531,396,383,13,2016
+Philadelphia Eagles,NFC East,7,9,0,0.438,367,331,36,2016
+Green Bay Packers,NFC North,10,6,0,0.625,432,388,44,2016
+Detroit Lions,NFC North,9,7,0,0.563,346,358,-12,2016
+Minnesota Vikings,NFC North,8,8,0,0.5,327,307,20,2016
+Chicago Bears,NFC North,3,13,0,0.188,279,399,-120,2016
+Atlanta Falcons,NFC South,11,5,0,0.688,540,406,134,2016
+Tampa Bay Buccaneers,NFC South,9,7,0,0.563,354,369,-15,2016
+New Orleans Saints,NFC South,7,9,0,0.438,469,454,15,2016
+Carolina Panthers,NFC South,6,10,0,0.375,369,402,-33,2016
+Seattle Seahawks,NFC West,10,5,1,0.656,354,292,62,2016
+Arizona Cardinals,NFC West,7,8,1,0.469,418,362,56,2016
+Los Angeles Rams,NFC West,4,12,0,0.25,224,394,-170,2016
+San Francisco 49ers,NFC West,2,14,0,0.125,309,480,-171,2016
+New England Patriots,AFC East,12,4,0,0.75,465,315,150,2015
+New York Jets,AFC East,10,6,0,0.625,387,314,73,2015
+Buffalo Bills,AFC East,8,8,0,0.5,379,359,20,2015
+Miami Dolphins,AFC East,6,10,0,0.375,310,389,-79,2015
+Cincinnati Bengals,AFC North,12,4,0,0.75,419,279,140,2015
+Pittsburgh Steelers,AFC North,10,6,0,0.625,423,319,104,2015
+Baltimore Ravens,AFC North,5,11,0,0.313,328,401,-73,2015
+Cleveland Browns,AFC North,3,13,0,0.188,278,432,-154,2015
+Houston Texans,AFC South,9,7,0,0.563,339,313,26,2015
+Indianapolis Colts,AFC South,8,8,0,0.5,333,408,-75,2015
+Jacksonville Jaguars,AFC South,5,11,0,0.313,376,448,-72,2015
+Tennessee Titans,AFC South,3,13,0,0.188,299,423,-124,2015
+Denver Broncos,AFC West,12,4,0,0.75,355,296,59,2015
+Kansas City Chiefs,AFC West,11,5,0,0.688,405,287,118,2015
+Oakland Raiders,AFC West,7,9,0,0.438,359,399,-40,2015
+San Diego Chargers,AFC West,4,12,0,0.25,320,398,-78,2015
+Washington Redskins,NFC East,9,7,0,0.563,388,379,9,2015
+Philadelphia Eagles,NFC East,7,9,0,0.438,377,430,-53,2015
+New York Giants,NFC East,6,10,0,0.375,420,442,-22,2015
+Dallas Cowboys,NFC East,4,12,0,0.25,275,374,-99,2015
+Minnesota Vikings,NFC North,11,5,0,0.688,365,302,63,2015
+Green Bay Packers,NFC North,10,6,0,0.625,368,323,45,2015
+Detroit Lions,NFC North,7,9,0,0.438,358,400,-42,2015
+Chicago Bears,NFC North,6,10,0,0.375,335,397,-62,2015
+Carolina Panthers,NFC South,15,1,0,0.938,500,308,192,2015
+Atlanta Falcons,NFC South,8,8,0,0.5,339,345,-6,2015
+New Orleans Saints,NFC South,7,9,0,0.438,408,476,-68,2015
+Tampa Bay Buccaneers,NFC South,6,10,0,0.375,342,417,-75,2015
+Arizona Cardinals,NFC West,13,3,0,0.813,489,313,176,2015
+Seattle Seahawks,NFC West,10,6,0,0.625,423,277,146,2015
+St. Louis Rams,NFC West,7,9,0,0.438,280,330,-50,2015
+San Francisco 49ers,NFC West,5,11,0,0.313,238,387,-149,2015
+New England Patriots,AFC East,12,4,0,0.75,468,313,155,2014
+Buffalo Bills,AFC East,9,7,0,0.563,343,289,54,2014
+Miami Dolphins,AFC East,8,8,0,0.5,388,373,15,2014
+New York Jets,AFC East,4,12,0,0.25,283,401,-118,2014
+Pittsburgh Steelers,AFC North,11,5,0,0.688,436,368,68,2014
+Cincinnati Bengals,AFC North,10,5,1,0.656,365,344,21,2014
+Baltimore Ravens,AFC North,10,6,0,0.625,409,302,107,2014
+Cleveland Browns,AFC North,7,9,0,0.438,299,337,-38,2014
+Indianapolis Colts,AFC South,11,5,0,0.688,458,369,89,2014
+Houston Texans,AFC South,9,7,0,0.563,372,307,65,2014
+Jacksonville Jaguars,AFC South,3,13,0,0.188,249,412,-163,2014
+Tennessee Titans,AFC South,2,14,0,0.125,254,438,-184,2014
+Denver Broncos,AFC West,12,4,0,0.75,482,354,128,2014
+Kansas City Chiefs,AFC West,9,7,0,0.563,353,281,72,2014
+San Diego Chargers,AFC West,9,7,0,0.563,348,348,0,2014
+Oakland Raiders,AFC West,3,13,0,0.188,253,452,-199,2014
+Dallas Cowboys,NFC East,12,4,0,0.75,467,352,115,2014
+Philadelphia Eagles,NFC East,10,6,0,0.625,474,400,74,2014
+New York Giants,NFC East,6,10,0,0.375,380,400,-20,2014
+Washington Redskins,NFC East,4,12,0,0.25,301,438,-137,2014
+Green Bay Packers,NFC North,12,4,0,0.75,486,348,138,2014
+Detroit Lions,NFC North,11,5,0,0.688,321,282,39,2014
+Minnesota Vikings,NFC North,7,9,0,0.438,325,343,-18,2014
+Chicago Bears,NFC North,5,11,0,0.313,319,442,-123,2014
+Carolina Panthers,NFC South,7,8,1,0.469,339,374,-35,2014
+New Orleans Saints,NFC South,7,9,0,0.438,401,424,-23,2014
+Atlanta Falcons,NFC South,6,10,0,0.375,381,417,-36,2014
+Tampa Bay Buccaneers,NFC South,2,14,0,0.125,277,410,-133,2014
+Seattle Seahawks,NFC West,12,4,0,0.75,394,254,140,2014
+Arizona Cardinals,NFC West,11,5,0,0.688,310,299,11,2014
+San Francisco 49ers,NFC West,8,8,0,0.5,306,340,-34,2014
+St. Louis Rams,NFC West,6,10,0,0.375,324,354,-30,2014
